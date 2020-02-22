@@ -1,6 +1,5 @@
 /**
- * By Peter Pan from Mr. Kirnic ICS4U class.
- * 2018/5/4
+ * By Peter Pan
  * KMP Algorithm
  * The main class 
  */
